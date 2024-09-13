@@ -1,0 +1,15 @@
+---
+title: "Population of Elderly Singaporeans (Age 65 and above) by Planning Area"
+description: "An interactive map using ggplotly illustrating the distribution of elderly population in Singapore"
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Population
+  - Demographic
+about:
+  template: solana
+  image: featured.png
+---
+
+
+ou can view the interactive map directly [here](map.html). The map was created using `ggplot2` and `plotly` in R.

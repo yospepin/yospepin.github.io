@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPopulation of Elderly Singaporeans (Age 65 and above) by Planning Area\n\n\n\nPopulation\n\n\nDemographic\n\n\n\nAn interactive map using ggplotly illustrating the distribution of elderly population in Singapore\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "mysite/about.html",
+    "href": "mysite/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "mysite/index.html",
+    "href": "mysite/index.html",
+    "title": "mysite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "projects/singapore_choroplethmap/index.html",
+    "href": "projects/singapore_choroplethmap/index.html",
+    "title": "Population of Elderly Singaporeans (Age 65 and above) by Planning Area",
+    "section": "",
+    "text": "ou can view the interactive map directly here. The map was created using ggplot2 and plotly in R."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yosephine Manihuruk",
+    "section": "",
+    "text": "Hello! I’m Yosephine Manihuruk, a data science enthusiast with a passion for exploring how data can drive impactful policy and decision-making. I am currently studying International Studies and Data Science, with a minor in Political Science.\n\n\nMacalester College | St. Paul MN  B.A. in International Studies and Data Science | Sept 2022 - May 2026\nUnited World College of South East Asia | Singapore  IB Diploma | Received May 2022\nFeel free to explore my projects to learn more about my work and interests!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yosephine Manihuruk",
+    "section": "",
+    "text": "Macalester College | St. Paul MN  B.A. in International Studies and Data Science | Sept 2022 - May 2026\nUnited World College of South East Asia | Singapore  IB Diploma | Received May 2022"
+  }
+]

@@ -1,0 +1,24 @@
+---
+title: "Yosephine Manihuruk"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.jpg
+  links:
+    - icon: instagram
+      href: https://instagram/yosephinemaria.m
+    - icon: github
+      href: https://github.com/yospepin
+---
+
+::: {#intro-heading}
+Hello! I’m Yosephine Manihuruk, a data science enthusiast with a passion for exploring how data can drive impactful policy and decision-making. I am currently studying International Studies and Data Science, with a minor in Political Science.
+
+## Education
+
+**Macalester College** \| St. Paul MN <br> B.A. in International Studies and Data Science \| Sept 2022 - May 2026
+
+**United World College of South East Asia** \| Singapore <br> IB Diploma \| Received May 2022
+:::
+
+Feel free to explore my projects to learn more about my work and interests!
